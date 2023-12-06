@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RandomCPPMaths", "RandomCPPMaths\RandomCPPMaths.vcxproj", "{58EE00C3-046D-461B-B700-638D85DE12FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Debug|x64.ActiveCfg = Debug|x64
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Debug|x64.Build.0 = Debug|x64
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Debug|x86.Build.0 = Debug|Win32
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Release|x64.ActiveCfg = Release|x64
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Release|x64.Build.0 = Release|x64
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Release|x86.ActiveCfg = Release|Win32
+		{58EE00C3-046D-461B-B700-638D85DE12FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8E1585-5C21-4A99-B06F-1DCA74DF439B}
+	EndGlobalSection
+EndGlobal
